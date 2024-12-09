@@ -56,3 +56,6 @@ C:\Csharp\study\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\obj\Debug\net8.
 C:\Csharp\study\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\obj\Debug\net8.0\HelloAsp.pdb
 C:\Csharp\study\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\obj\Debug\net8.0\HelloAsp.genruntimeconfig.cache
 C:\Csharp\study\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\obj\Debug\net8.0\ref\HelloAsp.dll
+C:\Csharp\study\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\obj\Debug\net8.0\HelloAsp.sourcelink.json
+C:\Csharp\study\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\obj\Debug\net8.0\HelloAsp.RazorAssemblyInfo.cache
+C:\Csharp\study\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\obj\Debug\net8.0\HelloAsp.RazorAssemblyInfo.cs
