@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿@{
+    string title = "제목입니다";
+    string titleB = "제목입니다B";
+}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,6 +11,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>테스트테스트</h1>
+    @DateTime.Now.ToShortTimeString();
+    
+    @{
+        <br/>@title;
+    }
+    @titleB
 </body>
 </html>

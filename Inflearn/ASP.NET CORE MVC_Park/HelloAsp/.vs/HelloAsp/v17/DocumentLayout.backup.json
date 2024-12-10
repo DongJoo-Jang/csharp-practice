@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Csharp\\study\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\study\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|solutionrelative:helloasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\study\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|solutionrelative:helloasp\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\study\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\helloasp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|solutionrelative:helloasp\\helloasp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\study\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|solutionrelative:helloasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\study\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,16 +26,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HelloAsp",
               "DocumentMoniker": "C:\\Csharp\\study\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\HelloAsp.csproj",
               "RelativeDocumentMoniker": "HelloAsp\\HelloAsp.csproj",
-              "ToolTip": "C:\\Csharp\\study\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\HelloAsp.csproj*",
-              "RelativeToolTip": "HelloAsp\\HelloAsp.csproj*",
+              "ToolTip": "C:\\Csharp\\study\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\HelloAsp.csproj",
+              "RelativeToolTip": "HelloAsp\\HelloAsp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-09T14:32:19.302Z",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "test.cshtml",
               "DocumentMoniker": "C:\\Csharp\\study\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Views\\Home\\test.cshtml",
               "RelativeDocumentMoniker": "HelloAsp\\Views\\Home\\test.cshtml",
@@ -73,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Csharp\\study\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HelloAsp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Csharp\\study\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "HelloAsp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T22:13:49.261Z",
               "EditorCaption": ""
