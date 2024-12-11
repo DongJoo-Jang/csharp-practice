@@ -4,16 +4,17 @@ namespace HelloAsp.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index()
+        public IActionResult Index()
         {
-            string userid = Request.Query["userid"];
-            string age = Request.Query["age"];
-            return $"응답입니다.{userid}_{age}";
+            return View();
         }
 
         public IActionResult Test()
         {
-            return View();
+
+            ViewData["MyMsg"] = "Hello response";
+            var list = new List<string> { "abc","kim","lee"};
+            return View(list);
         }
 
     }

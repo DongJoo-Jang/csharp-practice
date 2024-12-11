@@ -1,4 +1,6 @@
-﻿@{
+﻿@model List<string>
+
+@{
     string title = "제목입니다";
     string titleB = "제목입니다B";
 }
@@ -17,5 +19,12 @@
         <br/>@title;
     }
     @titleB
+    @ViewData["MyMsg"]
+    <ul>
+        @foreach(var data in Model)
+        {
+            <li>@data</li>
+        }
+    </ul>
 </body>
 </html>
