@@ -8,6 +8,12 @@ namespace HelloAsp.Controllers
         {
             return View();
         }
+        
+        [HttpPost]
+        public IActionResult Index(string userId , int age)
+        {
+            return Redirect("/Home/Test") ;
+        }
 
         public IActionResult Test()
         {
