@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAsp", "HelloAsp\HelloAsp.csproj", "{962E1CA5-9F9C-421F-9D7B-EE38EB636844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{DE15FBCE-596E-4F5F-807D-97FBE28088A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{962E1CA5-9F9C-421F-9D7B-EE38EB636844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{962E1CA5-9F9C-421F-9D7B-EE38EB636844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{962E1CA5-9F9C-421F-9D7B-EE38EB636844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE15FBCE-596E-4F5F-807D-97FBE28088A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE15FBCE-596E-4F5F-807D-97FBE28088A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE15FBCE-596E-4F5F-807D-97FBE28088A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE15FBCE-596E-4F5F-807D-97FBE28088A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

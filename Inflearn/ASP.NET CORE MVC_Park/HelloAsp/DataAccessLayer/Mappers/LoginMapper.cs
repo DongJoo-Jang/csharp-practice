@@ -1,9 +1,11 @@
-﻿using HelloAsp.Models;
+﻿using DataAccessLayer.Mappers;
+using HelloAsp.Models;
 using System.Data.SqlClient;
+
 
 namespace HelloAsp.DAL
 {
-    public class SqlHelper
+    public class LoginMapper : ILoginMapper
     {
         private string connectionString = "Data Source=127.0.0.1,1433;Initial Catalog=MyTestDB;User ID=sa;Password=qwe123!@#;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False";
 

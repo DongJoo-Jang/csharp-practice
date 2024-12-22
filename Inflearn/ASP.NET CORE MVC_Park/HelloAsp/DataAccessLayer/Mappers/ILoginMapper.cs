@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLayer.Services
+namespace DataAccessLayer.Mappers
 {
-    internal class LoginServiceImpl
+    public class ILoginMapper
     {
     }
 }
