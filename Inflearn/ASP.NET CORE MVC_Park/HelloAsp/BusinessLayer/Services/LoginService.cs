@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using DataAccessLayer.Mappers;
+using HelloAsp.DAL;
 using HelloAsp.DTO;
 using HelloAsp.Models;
 using System;
@@ -15,7 +16,7 @@ namespace BusinessLayer.Services
         ILoginMapper loginMapper;
         public LoginService()
         {
-                
+            loginMapper = new LoginMapper();
         }
 
         public void CreateUser(CreateUserDTO createUserDTO)
@@ -31,6 +32,8 @@ namespace BusinessLayer.Services
             // Perform mapping
             Mapper mapper = new Mapper(configuration);
             USER user = mapper.Map<CreateUserDTO, USER>(createUserDTO);
+
+            loginMapper.Create(user);
 
         }
     }

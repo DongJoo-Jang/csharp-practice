@@ -487,3 +487,12 @@ C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\H
 C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\obj\Debug\net8.0\ref\HelloAsp.dll
 C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\BusinessLayer.dll
 C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\AutoMapper.dll
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Csharp\ASP강의자료\study\csharp-practice\Inflearn\ASP.NET CORE MVC_Park\HelloAsp\HelloAsp\bin\Debug\net8.0\DataAccessLayer.pdb
