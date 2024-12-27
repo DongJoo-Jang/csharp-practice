@@ -1,4 +1,4 @@
-﻿namespace HelloAsp.Models
+﻿namespace DataAccessLayer.Models
 {
     public class USER
     {

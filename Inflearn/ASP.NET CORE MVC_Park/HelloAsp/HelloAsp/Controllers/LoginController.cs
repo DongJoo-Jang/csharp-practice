@@ -9,18 +9,18 @@ namespace HelloAsp.Controllers
         private ILoginService IoginService { get; set; }
 
 
-        public LoginController()
+        public LoginController(ILoginService service)
         {
-            IoginService = new LoginService();
+            IoginService = service;
         }
         public IActionResult NewUser()
         {
             return View();
         }
         [HttpPost]
-        public IActionResult CreateUser(CreateUserDTO createUserDTO)
+        public async Task<IActionResult> CreateUser(CreateUserDTO createUserDTO)
         {
-            IoginService.CreateUser(createUserDTO);
+            await IoginService.CreateUser(createUserDTO);
             return View();
         }
     }

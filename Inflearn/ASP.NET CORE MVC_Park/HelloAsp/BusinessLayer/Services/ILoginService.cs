@@ -9,6 +9,6 @@ namespace BusinessLayer.Services
 {
     public interface ILoginService
     {
-        public void CreateUser(CreateUserDTO createUserDTO);
+        public Task CreateUser(CreateUserDTO createUserDTO);
     }
 }

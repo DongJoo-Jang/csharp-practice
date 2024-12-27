@@ -1,8 +1,7 @@
 ﻿using AutoMapper;
 using DataAccessLayer.Mappers;
-using HelloAsp.DAL;
+using DataAccessLayer.Models;
 using HelloAsp.DTO;
-using HelloAsp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,27 +12,35 @@ namespace BusinessLayer.Services
 {
     public class LoginService : ILoginService
     {
-        ILoginMapper loginMapper;
-        public LoginService()
+        ILoginMapper _loginMapper;
+        public LoginService(ILoginMapper loginMapper)
         {
-            loginMapper = new LoginMapper();
+            _loginMapper = loginMapper;
         }
 
-        public void CreateUser(CreateUserDTO createUserDTO)
+        public async  Task CreateUser(CreateUserDTO createUserDTO)
         {
-            // 속성 유효성 검사
-            //비지니스 로직
-            //DTO <-> Entity 변경
+            try
+            {
+                // 속성 유효성 검사
+                //비지니스 로직
+                //DTO <-> Entity 변경
 
-            // Configure AutoMapper
+                // Configure AutoMapper
 
-            var configuration = new MapperConfiguration(cfg => cfg.CreateMap<CreateUserDTO, USER>());
+                var configuration = new MapperConfiguration(cfg => cfg.CreateMap<CreateUserDTO, USER>());
 
-            // Perform mapping
-            Mapper mapper = new Mapper(configuration);
-            USER user = mapper.Map<CreateUserDTO, USER>(createUserDTO);
+                // Perform mapping
+                Mapper mapper = new Mapper(configuration);
+                USER user = mapper.Map<CreateUserDTO, USER>(createUserDTO);
 
-            loginMapper.Create(user);
+                await _loginMapper.Create(user);
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+
 
         }
     }

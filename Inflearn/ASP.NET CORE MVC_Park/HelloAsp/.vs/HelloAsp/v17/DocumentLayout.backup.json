@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\dataaccesslayer\\mappers\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mappers\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|solutionrelative:helloasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\businesslayer\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\businesslayer\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\dataaccesslayer\\mappers\\iloginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mappers\\iloginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\dataaccesslayer\\mappers\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mappers\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\dataaccesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|solutionrelative:helloasp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\businesslayer\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE15FBCE-596E-4F5F-807D-97FBE28088A9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\businesslayer\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E0C4A5B-FE22-43BC-AD65-5A9791EACD43}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\views\\login\\newuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -40,10 +60,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\helloasp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|solutionrelative:helloasp\\helloasp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|solutionrelative:helloasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{962E1CA5-9F9C-421F-9D7B-EE38EB636844}|HelloAsp\\HelloAsp.csproj|c:\\csharp\\asp\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\inflearn\\asp.net core mvc_park\\helloasp\\helloasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -69,34 +85,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginMapper.cs",
-              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\Mappers\\LoginMapper.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Mappers\\LoginMapper.cs",
-              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\Mappers\\LoginMapper.cs",
-              "RelativeToolTip": "DataAccessLayer\\Mappers\\LoginMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T13:43:10.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILoginService.cs",
-              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\Services\\ILoginService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Services\\ILoginService.cs",
-              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\Services\\ILoginService.cs",
-              "RelativeToolTip": "BusinessLayer\\Services\\ILoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T13:32:53.366Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -105,7 +95,7 @@
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\LoginService.cs",
               "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\Services\\LoginService.cs",
               "RelativeToolTip": "BusinessLayer\\Services\\LoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywCIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T13:32:03.223Z",
               "EditorCaption": ""
@@ -113,48 +103,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BusinessLayer",
-              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\BusinessLayer.csproj",
-              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
-              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\BusinessLayer.csproj",
-              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-22T13:28:03.851Z",
+              "Title": "LoginMapper.cs",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\Mappers\\LoginMapper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Mappers\\LoginMapper.cs",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\Mappers\\LoginMapper.cs",
+              "RelativeToolTip": "DataAccessLayer\\Mappers\\LoginMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:43:10.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateUserDTO.cs",
-              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\DTO\\CreateUserDTO.cs",
-              "RelativeDocumentMoniker": "HelloAsp\\DTO\\CreateUserDTO.cs",
-              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\DTO\\CreateUserDTO.cs",
-              "RelativeToolTip": "HelloAsp\\DTO\\CreateUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:51:26.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "HelloAsp\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Controllers\\LoginController.cs",
               "RelativeToolTip": "HelloAsp\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T13:42:07.942Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloAsp\\Program.cs",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Program.cs",
+              "RelativeToolTip": "HelloAsp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:15:41.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "ILoginMapper.cs",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\Mappers\\ILoginMapper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Mappers\\ILoginMapper.cs",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\Mappers\\ILoginMapper.cs",
+              "RelativeToolTip": "DataAccessLayer\\Mappers\\ILoginMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:42:34.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "USER.cs",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\Models\\USER.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\USER.cs",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\Models\\USER.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\USER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:22:00.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\Services\\ILoginService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\ILoginService.cs",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\Services\\ILoginService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:32:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T14:43:54.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\DTO\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\DTO\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\DTO\\CreateUserDTO.cs",
+              "RelativeToolTip": "BusinessLayer\\DTO\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:43:48.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T13:28:03.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\DTO\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "HelloAsp\\DTO\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\DTO\\CreateUserDTO.cs",
+              "RelativeToolTip": "HelloAsp\\DTO\\CreateUserDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:51:26.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "NewUser.cshtml",
               "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Views\\Login\\NewUser.cshtml",
               "RelativeDocumentMoniker": "HelloAsp\\Views\\Login\\NewUser.cshtml",
@@ -166,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HelloAsp\\Views\\Home\\Index.cshtml",
@@ -178,20 +251,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "HelloAsp.csproj",
               "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\HelloAsp.csproj",
               "RelativeDocumentMoniker": "HelloAsp\\HelloAsp.csproj",
-              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\HelloAsp.csproj*",
-              "RelativeToolTip": "HelloAsp\\HelloAsp.csproj*",
+              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\HelloAsp.csproj",
+              "RelativeToolTip": "HelloAsp\\HelloAsp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-09T14:32:19.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T14:32:19.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HelloAsp\\Controllers\\HomeController.cs",
@@ -203,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HelloAsp\\Views\\Shared\\_Layout.cshtml",
@@ -215,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "HelloAsp\\Views\\_ViewStart.cshtml",
@@ -227,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "kkd2i2us..sql",
               "DocumentMoniker": "C:\\Users\\svra0\\AppData\\Local\\Temp\\kkd2i2us..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\svra0\\AppData\\Local\\Temp\\kkd2i2us..sql",
@@ -238,27 +310,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "test.cshtml",
               "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Views\\Home\\test.cshtml",
               "RelativeDocumentMoniker": "HelloAsp\\Views\\Home\\test.cshtml",
               "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Views\\Home\\test.cshtml",
               "RelativeToolTip": "HelloAsp\\Views\\Home\\test.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABSwA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-09T14:15:12.572Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Program.cs",
-              "RelativeDocumentMoniker": "HelloAsp\\Program.cs",
-              "ToolTip": "C:\\Csharp\\ASP\uAC15\uC758\uC790\uB8CC\\study\\csharp-practice\\Inflearn\\ASP.NET CORE MVC_Park\\HelloAsp\\HelloAsp\\Program.cs",
-              "RelativeToolTip": "HelloAsp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T22:15:41.47Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
