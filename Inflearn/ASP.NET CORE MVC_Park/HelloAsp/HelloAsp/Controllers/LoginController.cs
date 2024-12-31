@@ -21,7 +21,7 @@ namespace HelloAsp.Controllers
         public async Task<IActionResult> CreateUser(CreateUserDTO createUserDTO)
         {
             await IoginService.CreateUser(createUserDTO);
-            return View();
+            return RedirectToAction("Index","Home");
         }
     }
 }

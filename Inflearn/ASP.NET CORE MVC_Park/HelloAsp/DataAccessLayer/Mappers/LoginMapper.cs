@@ -8,10 +8,16 @@ namespace DataAccessLayer.Mappers
 {
     public class LoginMapper : ILoginMapper
     {
-        private string connectionString = "Data Source=127.0.0.1,1433;Initial Catalog=MyTestDB;User ID=sa;Password=qwe123!@#;Connect Timeout=30";
+        public LoginMapper(string conn)
+        {
+            connectionString = conn;
+        }
+        private string connectionString ;
 
         public async Task<USER> Create(USER user)
         {
+
+
             try
             {
                 using (SqlConnection sqlConnection = new SqlConnection(connectionString))

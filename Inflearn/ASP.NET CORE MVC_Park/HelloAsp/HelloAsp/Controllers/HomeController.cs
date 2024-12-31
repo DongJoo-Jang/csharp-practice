@@ -3,16 +3,11 @@
 namespace HelloAsp.Controllers
 {
     public class HomeController : Controller
-    {
-        public IActionResult Index()
-        {
-            return View();
-        }
-        
+    {   
         
         public IActionResult Index(string userId , int age)
         {
-            return Redirect("/Home/Test") ;
+            return Redirect("Home/Test") ;
         }
 
         
