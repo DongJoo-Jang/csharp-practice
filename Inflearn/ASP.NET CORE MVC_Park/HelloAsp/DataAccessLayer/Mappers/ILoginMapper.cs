@@ -10,5 +10,6 @@ namespace DataAccessLayer.Mappers
     public interface ILoginMapper
     {
         public Task<USER> Create(USER user);
+        public Task<List<USER>> GetAll();
     }
 }

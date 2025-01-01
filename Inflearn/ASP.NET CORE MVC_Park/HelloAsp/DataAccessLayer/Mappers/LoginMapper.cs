@@ -12,12 +12,10 @@ namespace DataAccessLayer.Mappers
         {
             connectionString = conn;
         }
-        private string connectionString ;
+        private string connectionString;
 
         public async Task<USER> Create(USER user)
         {
-
-
             try
             {
                 using (SqlConnection sqlConnection = new SqlConnection(connectionString))
@@ -34,11 +32,51 @@ namespace DataAccessLayer.Mappers
                     return user;
                 }
             }
-            catch (Exception ex )
+            catch (Exception ex)
             {
                 throw;
             }
-            
+
+        }
+
+
+        public async Task<List<USER>> GetAll()
+        {
+            try
+            {
+                List<USER> LIST = new List<USER>();
+                using (SqlConnection sqlConnection = new SqlConnection(connectionString))
+                {
+                    await sqlConnection.OpenAsync();
+                    SqlCommand sqlCommand = sqlConnection.CreateCommand();
+                    sqlCommand.CommandText = "SELECT * FROM [MyTestDB].[dbo].[TBL_USER] ";
+                    SqlDataReader reader = await sqlCommand.ExecuteReaderAsync();
+
+                    if (reader.HasRows)
+                    {
+                        while (reader.Read())
+                        {
+
+                            USER usr =  new USER
+                            {
+                                Id = reader.GetInt32(reader.GetOrdinal("ID")),
+                                Userid = reader.GetString(reader.GetOrdinal("USERNAME")),
+                                UserName = reader.GetString(reader.GetOrdinal("USERNAME")),
+                                Point = reader.GetInt32(reader.GetOrdinal("POINT"))
+                            };
+
+                            LIST.Add(usr);
+                        }
+                    }
+                    reader.Close();
+                }
+                return LIST;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+
         }
 
 
